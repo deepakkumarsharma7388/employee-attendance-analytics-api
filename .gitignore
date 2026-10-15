@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+*backup*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+PROBLEM_STATEMENT.docx
